@@ -1,6 +1,7 @@
 # XP Grinder (Kill Counter)
 A lightweight add-on that allows you to enter the average experience you get per mob. The addon then calculates how much kills you need until you reach the next level.
 
+
 **To set the average experience:**
 
 `/kc set xp <amount>`
@@ -8,6 +9,7 @@ A lightweight add-on that allows you to enter the average experience you get per
 **To show the frame with the amount of kills you need:**
 
 `/kc remaining`
+
 
 If you set the wrong value of the average experience, you can simply use the command again to correct it.
 
