@@ -1,0 +1,8 @@
+##Interface: 11505
+##Author: Sathyra (EU - Soulseeker, Spineshatter, Golemagg)
+##Version: 1.1
+##Title: Kill Counter
+##Notes: Allows you set the average XP you get per mob and shows you the amount of kills you need to reach the next level.
+##SavedVariables: KillCounterVar
+
+KillCounter.lua
